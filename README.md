@@ -1,1 +1,1 @@
-# JavaScript-Panels-image-gallery
+# Demo: https://albinasaveleva.github.io/JavaScript-Panels-image-gallery/
